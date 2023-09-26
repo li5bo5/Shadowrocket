@@ -1,0 +1,7 @@
+# MengRain　－ config　　（Shadowrocket）
+# Author：MengRain
+# Date: 2022.08.19
+[General]
+update-url = https://raw.githubusercontent.com/vnxidev/sfw/main/shadowrocket.conf
+doh-server = https://dns.alidns.com/dns-query,https://doh.pub/dns-query
+ipv6 = false
